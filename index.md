@@ -21,9 +21,9 @@ Things I do:
 <b>3+2 Engineering Program brochure</b>
 <img src="images/demo_32.png" alt="Brochure Demo 2" height="500">
 
-<b>INT2025 Conference Website</b>
+<b>INT2025 Conference Website</b><br>
 <i>I have created the logo, home, and page banners for the INT2025 conference website.
-  Everything was made using CC0 stock images.</i>
+  <br>Everything was made using CC0 stock images.</i>
 <img src="images/int2025_webpreview.png">
 <img src="images/banners.png">
 <br><br>
