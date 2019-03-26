@@ -29,7 +29,7 @@ Things I do:
 <br><br>
 <hr>
 <h2><a name="h2">Game Development</a></h2>
-<i>In 2019, I am currently involved on undisclosed 2 game development projects as UI and 2D art asset artist.<br>
+<i>In 2019, I am currently involved on 2 undisclosed game development projects as UI and 2D art asset artist.<br>
 <i>These are the games I have worked outside of my classes with small teams. Recent to oldest release order.</i>
 <h3><a href="https://theavianlord.itch.io/a-corgi-at-night">A Corgi at Night</a></h3>
   <ul><li>A 2D platformer game about a lost corgi trying to get back to its owners.</li>
