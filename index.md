@@ -1,6 +1,6 @@
 # Welcome!
 
-## This is Victoria Barinova's portfolio.
+## This is Victoria Barinova's work showcase.
 <i>I specialize in 2D digital art, but my education is heavily involved in software engineering and game development.
 <br>Current interests and focus: UI/UX design</i>
 
@@ -66,5 +66,6 @@ Things I do:
 
 <hr>
 <h2><a name="h3">Illustrations</a></h2>
-<i>I do some occassional digital fanwork! It is mainly a hobby, however it gave me great practice for visual designs and skills for game development.</i>
-Tools: Clip Studio Paint, Photoshop
+<i>I do some occassional digital original and fanwork illustrations! It is mainly a hobby, however it gave me great practice for visual designs and skills for game development.</i><br>
+<img src="/images/art_preview.png">
+<br>Tools: Clip Studio Paint, Photoshop
