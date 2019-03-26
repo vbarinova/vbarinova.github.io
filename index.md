@@ -1,7 +1,7 @@
 # Welcome!
 
 ## This is Victoria Barinova's work showcase.
-<i>I specialize in 2D digital art, but my academic coursework is heavily involved in software engineering and game development.
+<i>I specialize in 2D digital art, but my academic coursework is heavily involved in software engineering, computer science, and game development.
 <br>Current interests and focus: UI/UX design</i>
 
 ### Navigation
