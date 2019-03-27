@@ -26,7 +26,7 @@ Things I do:
   <br>Everything was made using CC0 stock images.</i>
 <img src="images/int2025_webpreview.png">
 <img src="images/banners.png">
-<br><br>
+<br><br><br><br>
 <hr>
 <h2><a name="h2">Game Development</a></h2>
 <i>In 2019, I am currently involved on 2 undisclosed game development projects as UI and 2D art asset artist.<br>
