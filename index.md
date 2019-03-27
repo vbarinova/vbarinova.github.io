@@ -14,14 +14,14 @@ Things I do:
 
 <h2><a name="h1">Graphic Design</a></h2>
 <i>These are my graphic design works during my employment at UCIrvine as a student assistant. The brochure designs are shown as 3D-generated demos I made during the production.</i><br>
-<i>I have also designed the website logo for the <b>UCInspire program.</b></i>
+<i>I have also designed the website logo for the <b><a href="https://sites.uci.edu/ucinspire/">UCInspire program</a>.</b></i>
 <img src="images/title_ucinspire.png" alt="UCInspire logo">
 <img src="images/demo_inspire.png" alt="Brochure Demo" height="500">
 
-<b>3+2 Engineering Program brochure</b>
+<b><a href="https://sites.uci.edu/engr32/">3+2 Engineering Program</a> brochure</b>
 <img src="images/demo_32.png" alt="Brochure Demo 2" height="500">
 
-<b>INT2025 Conference Website</b><br>
+<b><a href="http://int2025.eng.uci.edu/">INT2025 Conference Website</a></b><br>
 <i>I have created the logo, home, and page banners for the INT2025 conference website.
   <br>Everything was made using CC0 stock images.</i>
 <img src="images/int2025_webpreview.png">
