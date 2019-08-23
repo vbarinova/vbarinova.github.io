@@ -17,10 +17,17 @@ Things I do:
 <i>I have also designed the website logo for the <b><a href="https://sites.uci.edu/ucinspire/">UCInspire program</a>.</b></i>
 <img src="images/title_ucinspire.png" alt="UCInspire logo">
 <img src="images/demo_inspire.png" alt="Brochure Demo" height="500"><br>
+<<<<<<< HEAD
 Design Notes: For this brochure, I had decided to evolve the main cover page from the program logo that I created earlier. The color scheme follows the UCIrvine brand guidelines, but the placement of colors is intended to portray a sort of playful feeling to go along with the program's summer timeframe.<br>
 <b><a href="https://sites.uci.edu/engr32/">3+2 Engineering Program</a> brochure</b>
 <img src="images/demo_32.png" alt="Brochure Demo 2" height="500"><br>
 Design Notes: For this brochure, I continued to follow the UCI brand standards for the color scheme, and decided to focus on a modern but professional looking theme for the overall look of the design as the program is a combination of bachelor's and master's degrees for involved students.<br>
+=======
+Design Notes: For this brochure, I had decided to evolve the main cover page from the program logo that I created earlier. The color scheme follows the UCIrvine brand guidelines, but the placement of colors is intended to portray a sort of playful feeling to go along with the program's summer timeframe.<br><br>
+<b><a href="https://sites.uci.edu/engr32/">3+2 Engineering Program</a> brochure</b>
+<img src="images/demo_32.png" alt="Brochure Demo 2" height="500"><br>
+Design Notes: For this brochure, I continued to follow the UCI brand standards for the color scheme, and decided to focus on a modern but professional looking theme for the overall look of the design as the program is a combination of bachelor's and master's degrees for involved students.<br><br>
+>>>>>>> parent of c20845e... Attempt Update
 <b><a href="http://int2025.eng.uci.edu/">INT2025 Conference Website</a></b><br>
 <i>I have created the logo, home, and page banners for the INT2025 conference website.
   <br>Everything was made using CC0 stock images.</i>
