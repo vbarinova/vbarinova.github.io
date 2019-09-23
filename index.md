@@ -1,6 +1,7 @@
 # Welcome!
 
 ## This is Victoria Barinova's work showcase.
+<img src="images/profile.gif" alt="Intro to me">
 <i>I specialize in 2D digital art, but my academic coursework is heavily involved in software engineering, computer science, and game development.
 <br>Current interests and focus: UI/UX design</i>
 
