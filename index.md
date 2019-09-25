@@ -33,8 +33,8 @@ Design Notes: For the website, I considered the main conference theme - Artifici
 <br><br><br><br>
 <hr>
 <h2><a name="h2">Game Development</a></h2>
-<i>In 2019, I am currently involved on 2 undisclosed game development projects as UI and 2D art asset artist.<br>
-<i>These are the games I have worked outside of my classes with small teams. Recent to oldest release order.</i>
+<i>In 2019, I am currently involved on 2 undisclosed game development projects as UI and 2D art asset artist.<br><br>
+<i>Below are the games I have worked outside of my classes with small teams. Recent to oldest release order.</i>
 <h3><a href="https://theavianlord.itch.io/a-corgi-at-night">A Corgi at Night</a></h3>
   <ul><li>A 2D platformer game about a lost corgi trying to get back to its owners.</li>
   <li>Key role: Opening cutscene, UI design, various art assets</li></ul>
@@ -70,6 +70,6 @@ Design Notes: For the website, I considered the main conference theme - Artifici
 
 <hr>
 <h2><a name="h3">Illustrations</a></h2>
-<i>I do some occassional digital original and fanwork illustrations! It is mainly a hobby, however it gave me great practice for visual designs and skills for game development.</i><br>
+<i>I do some occasional digital original and fanwork illustrations! It is mainly a hobby, however it gave me great practice for visual designs and skills for game development.</i><br>
 <img src="/images/art_preview.png">
 <br>Tools: Clip Studio Paint, Photoshop
