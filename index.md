@@ -4,7 +4,7 @@
 <br>
 <img src="images/profile.gif" alt="Intro to me"><br>
 <i>I specialize in 2D digital art, but my academic coursework is heavily involved in software engineering, computer science, and game development.
-<br>Current interests and focus: UI/UX design</i>
+<br>Current work interests and focus: Graphic design, interface design</i>
 
 ### Navigation
 Things I do:
@@ -15,7 +15,7 @@ Things I do:
 <hr>
 
 <h2><a name="h1">Graphic Design</a></h2>
-<i>These are my graphic design works during my employment at UCIrvine as a student assistant. The brochure designs are shown as 3D-generated demos I made during the production.</i><br>
+<i>These are my graphic design works during my employment at UCIrvine while a student. The brochure designs are shown as 3D-generated demos I made during the production.</i><br>
 <i>I have also designed the website logo for the <b><a href="https://sites.uci.edu/ucinspire/">UCInspire program</a>.</b></i>
 <img src="images/title_ucinspire.png" alt="UCInspire logo">
 <img src="images/demo_inspire.png"><br>
@@ -33,8 +33,8 @@ Design Notes: For the website, I considered the main conference theme - Artifici
 <br><br><br><br>
 <hr>
 <h2><a name="h2">Game Development</a></h2>
-<i>In 2019, I am currently involved on 2 undisclosed game development projects as UI and 2D art asset artist.<br><br>
-<i>Below are the games I have worked outside of my classes with small teams. Recent to oldest release order.</i>
+<i>In 2019-2020, I am currently involved on 2 undisclosed game development projects as UI and 2D digital art asset artist, as well as large capstone class game project to finish my degree.<br><br>
+<i>Below are the completed games I have worked outside of my classes with small teams. Recent to oldest release order.</i>
 <h3><a href="https://theavianlord.itch.io/a-corgi-at-night">A Corgi at Night</a></h3>
   <ul><li>A 2D platformer game about a lost corgi trying to get back to its owners.</li>
   <li>Key role: Opening cutscene, UI design, various art assets</li></ul>
