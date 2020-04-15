@@ -33,7 +33,22 @@ Design Notes: For the website, I considered the main conference theme - Artifici
 <br><br><br><br>
 <hr>
 <h2><a name="h2">Game Development</a></h2>
-<i>In 2019-2020, I am currently involved on 2 undisclosed game development projects as UI and 2D digital art asset artist, as well as large capstone class game project to finish my degree.<br><br>
+<br><br>
+<i>Below are the games I have worked outside of my classes with small teams. Recent to oldest release order.</i>
+<h3><a href="https://penguindigital.itch.io/bombsaway">Bombs Away</a></h3>
+  <ul><li>3D airship station management game project for <strong>UCI Computer Game Science Capstone class.</strong></li>
+  <li>Key role: Art direction, 2D art assets, UI design/implementation, shaders</li></ul>
+  <a href="https://penguindigital.itch.io/bombsaway"><img src="/images/bombsaway.png"></a>
+  
+  <br><br>
+  
+<h3><a href="https://transformativeplay.ics.uci.edu/shadowcast/">ShadowCast</a></h3>
+  <ul><li>Mixed reality musical theater karaoke spectacle.</li>
+  <li>Key role: UI art, graphic design (logo, promotional materials)</li></ul>
+  <img src="/images/shadowcast.png">
+  
+  <br><br>
+  
 <i>Below are the completed games I have worked outside of my classes with small teams. Recent to oldest release order.</i>
 <h3><a href="https://theavianlord.itch.io/a-corgi-at-night">A Corgi at Night</a></h3>
   <ul><li>A 2D platformer game about a lost corgi trying to get back to its owners.</li>
