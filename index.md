@@ -33,7 +33,6 @@ Design Notes: For the website, I considered the main conference theme - Artifici
 <br><br><br><br>
 <hr>
 <h2><a name="h2">Game Development</a></h2>
-<br><br>
 <i>Below are the games I have worked outside of my classes with small teams. Recent to oldest release order.</i>
 <h3><a href="https://penguindigital.itch.io/bombsaway">Bombs Away</a></h3>
   <ul><li>3D airship station management game project for <strong>UCI Computer Game Science Capstone class.</strong></li>
@@ -41,7 +40,7 @@ Design Notes: For the website, I considered the main conference theme - Artifici
   <a href="https://penguindigital.itch.io/bombsaway"><img src="/images/bombsaway.png"></a>
   
   <br><br>
-  
+ 
 <h3><a href="https://transformativeplay.ics.uci.edu/shadowcast/">ShadowCast</a></h3>
   <ul><li>Mixed reality musical theater karaoke spectacle.</li>
   <li>Key role: UI art, graphic design (logo, promotional materials)</li></ul>
@@ -49,7 +48,6 @@ Design Notes: For the website, I considered the main conference theme - Artifici
   
   <br><br>
   
-<i>Below are the completed games I have worked outside of my classes with small teams. Recent to oldest release order.</i>
 <h3><a href="https://theavianlord.itch.io/a-corgi-at-night">A Corgi at Night</a></h3>
   <ul><li>A 2D platformer game about a lost corgi trying to get back to its owners.</li>
   <li>Key role: Opening cutscene, UI design, various art assets</li></ul>
