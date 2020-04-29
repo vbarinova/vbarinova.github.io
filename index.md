@@ -34,10 +34,13 @@ Design Notes: For the website, I considered the main conference theme - Artifici
 <hr>
 <h2><a name="h2">Game Development</a></h2>
 <i>Below are the games I have worked outside of my classes with small teams. Recent to oldest release order.</i>
+<strong>Click project titles to see more details </strong>
 <h3><a href="https://penguindigital.itch.io/bombsaway">Bombs Away</a></h3>
   <ul><li>3D airship station management game project for <strong>UCI Computer Game Science Capstone class.</strong></li>
   <li>Key role: Art direction, 2D art assets, UI design/implementation, shaders</li></ul>
+  
   <a href="https://penguindigital.itch.io/bombsaway"><img src="/images/bombsaway.png"></a>
+  
   Trailer video:
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wAv6NmYhYIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
