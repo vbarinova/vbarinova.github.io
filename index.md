@@ -4,6 +4,7 @@
 <br>
 <img src="images/profile.gif" alt="Intro to me"><br>
 <i>I specialize in 2D digital art, but my academic coursework is heavily involved in software engineering, computer science, and game development.
+For class projects, I've done a lot of UI art and design implementations in code.
 <br>Current work interests and focus: Graphic design, interface design</i>
 
 ### Navigation
@@ -41,7 +42,7 @@ Design Notes: For the website, I considered the main conference theme - Artifici
   
   <a href="https://penguindigital.itch.io/bombsaway"><img src="/images/bombsaway.png"></a>
   
-  Trailer video:
+  Trailer:
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wAv6NmYhYIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
  
@@ -49,7 +50,7 @@ Design Notes: For the website, I considered the main conference theme - Artifici
   <ul><li>Mixed reality musical theater karaoke spectacle.</li>
   <li>Key role: UI art, graphic design (logo, promotional materials)</li></ul>
   <img src="/images/shadowcast.png">
-  
+Production process with this project has been with 15-20 people in Agile environment. Aside from key work I've done, I helped a lot with the initial development and research on art style and graphics for the project. 
   <br><br>
   
 <h3><a href="https://theavianlord.itch.io/a-corgi-at-night">A Corgi at Night</a></h3>
