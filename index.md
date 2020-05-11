@@ -42,7 +42,7 @@ Design Notes: For the website, I considered the main conference theme - Artifici
   
   <a href="https://penguindigital.itch.io/bombsaway"><img src="/images/bombsaway.png"></a>
   
-  Trailer:
+  Trailer I made:
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wAv6NmYhYIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
  
