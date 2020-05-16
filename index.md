@@ -5,7 +5,7 @@
 <img src="images/profile.gif" alt="Intro to me"><br>
 <i>I specialize in 2D digital art, but my academic coursework is heavily involved in software engineering, computer science, and game development.
 For class projects, I've done a lot of UI art and design implementations in code.
-<br>Current work interests and focus: Graphic design, interface design</i>
+<br>Current work interests and focus: UI design, graphic design</i>
 
 ### Navigation
 Things I do:
