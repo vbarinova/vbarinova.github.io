@@ -40,7 +40,8 @@ Design Notes: For the website, I considered the main conference theme - Artifici
   <ul><li>3D airship station management game project for <strong>UCI Computer Game Science Capstone class. (Unity Engine)</strong></li>
   <li>Key role: Art direction, 2D art assets, UI design/implementation, shaders</li></ul>
   
-  <a href="https://penguindigital.itch.io/bombsaway"><img src="/images/bombsaway.png"></a>
+  <a href="https://penguindigital.itch.io/bombsaway"><img src="/images/bombsaway.png" height="400" width="auto"></a>
+  
   <img src="/images/ba_gameplay.gif"><img src="/images/ba_shaders.gif">
   
   Trailer I made:
