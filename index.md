@@ -9,13 +9,13 @@ For class projects, I've done a lot of UI art and design implementations in code
 
 ### Navigation
 Things I do:
-- <a href="#h1">Graphic Design</a>
+- <a href="#h1">Graphic & Web Design</a>
 - <a href="#h2">Game Development</a>
 - <a href="#h3">Illustrations</a> (hobby)
 
 <hr>
 
-<h2><a name="h1">Graphic Design</a></h2>
+<h2><a name="h1">Graphic & Web Design</a></h2>
 <i>These are my graphic design works during my employment at UCIrvine while a student. The brochure designs are shown as 3D-generated demos I made during the production.</i><br>
 <i>I have also designed the website logo for the <b><a href="https://sites.uci.edu/ucinspire/">UCInspire program</a>.</b></i>
 <img src="images/title_ucinspire.png" alt="UCInspire logo">
@@ -31,6 +31,10 @@ Design Notes: For this brochure, I continued to follow the UCI brand standards f
 <img src="images/banners.png">
 <br>
 Design Notes: For the website, I considered the main conference theme - Artificial Intelligence in 2025- and decided to go for a modern look to evoke the feeling of 'future technology' and decide on the cyan with magenta accent for the color scheme.
+<br><br>
+<b><a href="https://sites.uci.edu/ucidutjp/">UCI-DUT Joint Program</a></b><br>
+Designed the website seen, starting from a free template on UCI Sites framework via WordPress. Using some stock photos and custom graphics to make the program site appealing with future applicants. Maintain both English and Chinese versions of the site.
+<img src="images/ucidutjp_webpreview.png" height="500" width="auto">
 <br><br><br><br>
 <hr>
 <h2><a name="h2">Game Development</a></h2>
