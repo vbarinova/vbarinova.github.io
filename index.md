@@ -37,7 +37,7 @@ Design Notes: For the website, I considered the main conference theme - Artifici
 <i>Below are the games I have worked outside of my classes with small teams. Recent to oldest release order.</i>
 <strong>Click project titles to see more details </strong>
 <h3><a href="https://penguindigital.itch.io/bombsaway">Bombs Away</a></h3>
-  <ul><li>3D airship station management game project for <strong>UCI Computer Game Science Capstone class. (Unity Engine)</strong></li>
+  <ul><li>3D airship station management game project for <strong>UCI Computer Game Science Capstone class.</strong> (Unity Engine)</li>
   <li>Key role: Art direction, 2D art assets, UI design/implementation, shaders</li></ul>
   
   <a href="https://penguindigital.itch.io/bombsaway"><img src="/images/bombsaway.png" height="400" width="auto"></a>
