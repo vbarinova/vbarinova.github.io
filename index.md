@@ -37,17 +37,17 @@ Design Notes: For the website, I considered the main conference theme - Artifici
 <i>Below are the games I have worked outside of my classes with small teams. Recent to oldest release order.</i>
 <strong>Click project titles to see more details </strong>
 <h3><a href="https://penguindigital.itch.io/bombsaway">Bombs Away</a></h3>
-  <ul><li>3D airship station management game project for <strong>UCI Computer Game Science Capstone class.</strong></li>
+  <ul><li>3D airship station management game project for <strong>UCI Computer Game Science Capstone class. (Unity Engine)</strong></li>
   <li>Key role: Art direction, 2D art assets, UI design/implementation, shaders</li></ul>
   
-  <a href="https://penguindigital.itch.io/bombsaway"><img src="/images/bombsaway.png"></a>
+  <a href="https://penguindigital.itch.io/bombsaway"><img src="/images/bombsaway.png"></a><img src="/images/ba_gameplay.gif"></a>
   
   Trailer I made:
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wAv6NmYhYIA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   <br><br>
  
 <h3><a href="https://transformativeplay.ics.uci.edu/shadowcast/">ShadowCast</a></h3>
-  <ul><li>Mixed reality musical theater karaoke spectacle.</li>
+  <ul><li>Mixed reality musical theater karaoke spectacle. (VR, Unity Engine)</li>
   <li>Key role: UI art, graphic design (logo, promotional materials)</li></ul>
   <img src="/images/shadowcast.png">
 Production process with this project has been with 15-20 people in Agile environment. Aside from key work I've done, I helped a lot with the initial development and research on art style and graphics for the project. 
@@ -61,7 +61,7 @@ Production process with this project has been with 15-20 people in Agile environ
   <br><br>
   
 <h3><a href="https://neizuu.itch.io/augmented-shopping-rush">Augmented Shopping Rush</a></h3>
-  <ul><li>A quick 3D physics game done for Ludum Dare 42 gamejam. Theme: "Running out of Space". Done in 72 hours with a partner.</li>
+  <ul><li>A quick 3D physics game done for Ludum Dare 42 gamejam. Theme: "Running out of Space". Done in 72 hours with a partner.  (Unity Engine)</li>
   <li>Key role: Main Menu UI design and implementation, 2D art assets, scripting</li></ul>
   <img src="/images/asr_previewl.png">
   <i>Gameplay</i>
@@ -70,14 +70,14 @@ Production process with this project has been with 15-20 people in Agile environ
   <br><br>
   
 <h3><a href="https://theavianlord.itch.io/rance-rance-human-devolution">Rance Rance Human Devolution</a></h3>
-  <ul><li>Parody dancing game.</li>
+  <ul><li>Parody dancing game.  (Unity Engine)</li>
   <li>Key role: UI, character, and art design</li></ul>
   <img src="/images/rance_previewl.png">
 
 <br><br>
 
 <h3><a href="https://theavianlord.itch.io/xylo">Xylo</a></h3>
- <ul><li>A 2D sci-fi horror game about a crashed ship crew.</li>
+ <ul><li>A 2D sci-fi horror game about a crashed ship crew. (Unity Engine)</li>
   <li>Key role: character designer, artist for additional prop assets</li></ul>
   <img src="/images/xylo_walk_test.gif" height="100">
   <img src="/images/xylo_preview.png">
